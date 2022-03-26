@@ -21,7 +21,7 @@ We will collate our whole code as soon as possible.
 ## Acknowledgement
 The codebase of semantic segmentation is succeed from the work of my senior schoolmates [Accurate Retinal Vessel Segmentation in Color Fundus Images via Fully Attention-Based Networks](https://ieeexplore.ieee.org/abstract/document/9210783). 
 
-The codebase of kd is heavily borrowed from our [Knowledge-Distillation-Zoo](https://github.com/AberHu/Knowledge-Distillation-Zoo) and [structure_knowledge_distillation](https://github.com/irfanICMLL/structure_knowledge_distillation) .
+The codebase of kd is heavily borrowed from [Knowledge-Distillation-Zoo](https://github.com/AberHu/Knowledge-Distillation-Zoo) and [structure_knowledge_distillation](https://github.com/irfanICMLL/structure_knowledge_distillation) .
 
 The pre-processed Synapse is from [Transunet](https://github.com/Beckschen/TransUNet).
 
