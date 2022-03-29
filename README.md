@@ -12,7 +12,8 @@ Bioinformatics and Biomedicine (BIBM).
 We will collate our whole code as soon as possible.
 
 ## Visulatiztion on GastricCancer and Synpase
-[kd_visualization_new.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/8368358/kd_visualization_new.pdf)
+![kd_visualization_new](https://user-images.githubusercontent.com/84963829/160541226-c0ea02c5-5995-4116-906d-3e756e82156a.png)
+
 
 ## Requirments
 
