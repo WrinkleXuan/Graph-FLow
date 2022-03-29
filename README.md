@@ -100,7 +100,7 @@ We will collate our whole code as soon as possible.
 
 ![semi_supervised](https://user-images.githubusercontent.com/84963829/160548664-fad9843a-a87d-4b09-9090-411a08bff7e9.png)
 
-## Pre-trained Models
+## Models
 <table class="tg">
 <thead>
   <tr>
