@@ -11,6 +11,13 @@ Bioinformatics and Biomedicine (BIBM).
 
 We will collate our whole code as soon as possible.
 
+## Framework of our Graph Flow
+![framework_final](https://user-images.githubusercontent.com/84963829/160540015-b7c0f476-0319-4272-9c33-2c05cba73a7d.png)
+
+## Visulatiztion on GastricCancer and Synpase
+
+## Performance on GastricCancer and Synapse
+
 ## Requirments
 
 * Python 3.6
