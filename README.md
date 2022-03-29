@@ -97,8 +97,8 @@ We will collate our whole code as soon as possible.
 </table>
 
 ### Annotation Efficiency 
-![semi_supervised](https://user-images.githubusercontent.com/84963829/160546061-3f030f3e-e390-4cb4-bc48-e9913c84df28.png)
 
+![semi_supervised](https://user-images.githubusercontent.com/84963829/160548664-fad9843a-a87d-4b09-9090-411a08bff7e9.png)
 
 
 ## Requirments
