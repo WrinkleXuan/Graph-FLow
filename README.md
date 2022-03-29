@@ -15,6 +15,7 @@ We will collate our whole code as soon as possible.
 ![kd_visualization_new](https://user-images.githubusercontent.com/84963829/160541226-c0ea02c5-5995-4116-906d-3e756e82156a.png)
 
 ## Performance on GastricCancer and Synapse 
+### Network Efficiency 
 <table class="tg">
 <thead>
   <tr>
@@ -94,6 +95,11 @@ We will collate our whole code as soon as possible.
   </tr>
 </tbody>
 </table>
+
+### Annotation Efficiency 
+![semi_supervised](https://user-images.githubusercontent.com/84963829/160546061-3f030f3e-e390-4cb4-bc48-e9913c84df28.png)
+
+
 
 ## Requirments
 
