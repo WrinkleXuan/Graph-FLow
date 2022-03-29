@@ -14,6 +14,8 @@ We will collate our whole code as soon as possible.
 ## Visulatiztion on GastricCancer and Synpase
 ![kd_visualization_new](https://user-images.githubusercontent.com/84963829/160541226-c0ea02c5-5995-4116-906d-3e756e82156a.png)
 
+## Performance on GastricCancer and Synapse 
+![image](https://user-images.githubusercontent.com/84963829/160541432-460433ce-2240-49ab-a096-f7e4a2f9662a.png)
 
 ## Requirments
 
