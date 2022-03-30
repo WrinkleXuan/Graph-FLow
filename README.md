@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This repository contains the code  of our paper Graph Flow: Cross-layer Graph Flow Distillation for Dual Efficient Medical Image Segmentation.
+This repository contains the code  of our paper [Graph Flow: Cross-layer Graph Flow Distillation for Dual Efficient Medical Image Segmentation](https://arxiv.org/pdf/2203.08667.pdf).
 
 The paper is under review in IEEE Transactions on Medical Imaging.
 
