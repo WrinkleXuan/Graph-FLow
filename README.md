@@ -100,28 +100,28 @@ We will collate our whole code as soon as possible.
 
 ![semi_supervised](https://user-images.githubusercontent.com/84963829/160548664-fad9843a-a87d-4b09-9090-411a08bff7e9.png)
 
-## Models
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-7btt">GastricCancer</th>
-    <th class="tg-7btt">Synapse</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7btt">Network Efficiency</td>
-    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1yOnINbK4BcVlO9n0KoaP39CJ2twCgwqq">Network Efficiency</a></td>
-    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1vthjYu1bVZwUa_6W0C5F0pjjKQvbyTEZ">Network Efficiency</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt">Annotation Efficiency</td>
-    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1mZUxvYrplhZapgq27XDQM6Fcg8-VYIP8">Annotation Efficiency</a></td>
-    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1yTVGOfp_j31QnKamtdk1E2jU8JXXvKwm">Annotation Efficiency</a></td>
-  </tr>
-</tbody>
-</table>
+%## Models
+%<table class="tg">
+%<thead>
+%  <tr>
+%    <th class="tg-0pky"></th>
+%    <th class="tg-7btt">GastricCancer</th>
+%    <th class="tg-7btt">Synapse</th>
+%  </tr>
+%</thead>
+%<tbody>
+%  <tr>
+%    <td class="tg-7btt">Network Efficiency</td>
+%    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1yOnINbK4BcVlO9n0KoaP39CJ2twCgwqq">Network Efficiency</a></td>
+%    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1vthjYu1bVZwUa_6W0C5F0pjjKQvbyTEZ">Network Efficiency</a></td>
+%  </tr>
+%  <tr>
+%    <td class="tg-7btt">Annotation Efficiency</td>
+%    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1mZUxvYrplhZapgq27XDQM6Fcg8-VYIP8">Annotation Efficiency</a></td>
+%    <td class="tg-0pky"><a href="https://drive.google.com/drive/folders/1yTVGOfp_j31QnKamtdk1E2jU8JXXvKwm">Annotation Efficiency</a></td>
+%  </tr>
+%</tbody>
+%</table>
 
 ## Requirments
 
