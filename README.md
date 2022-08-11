@@ -476,6 +476,12 @@ We will collate our whole code as soon as possible.
 </tbody>
 </table>
 
+## Datasets
+
+### Gastric Cancer 
+
+test set: https://drive.google.com/drive/folders/1w2TtJBCAU0i-OQ3nb40StwzbYFBoQxQu
+
 ## Requirments
 
 * Python 3.6
