@@ -17,7 +17,7 @@ We will collate our whole code as soon as possible.
 ![visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/main/img/visualization.pdf)
 
 ## Visulatiztion of components ablation on GastricCancer and Synpase
-![ablation_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/blob/main/img/ablation_visualization.pdf)
+![ablation_visualization](https://github.com/WrinkleXuan/Graph-FLow/blob/main/img/ablation_visualization.pdf)
 
 ## Visulatiztion on GastricCancer and Synpase with different student (Teahcer is TransUnet)
 ![student_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/main/img/student_visualization.pdf)
