@@ -111,7 +111,7 @@ We will collate our whole code as soon as possible.
 -->
 ### Annotation Efficiency 
 
-<!--[semi_supervised](https://user-images.githubusercontent.com/84963829/160548664-fad9843a-a87d-4b09-9090-411a08bff7e9.png)-->
+![semi_supervised](https://github.com/WrinkleXuan/Graph-FLow/blob/main/img/semi_supervised.pdf)
 
 <!--
 ## Models
