@@ -113,7 +113,7 @@ We will collate our whole code as soon as possible.
 
 ![semi_supervised](https://github.com/WrinkleXuan/Graph-FLow/blob/main/img/semi_supervised.pdf)
 
-<!--
+
 ## Models
 <table class="tg">
 <thead>
@@ -136,7 +136,7 @@ We will collate our whole code as soon as possible.
   </tr>
 </tbody>
 </table>
--->
+
 
 ## Requirments
 
