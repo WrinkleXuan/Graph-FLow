@@ -137,6 +137,126 @@ We will collate our whole code as soon as possible.
 </tbody>
 </table>
 
+## Supplementary Experiments
+
+### The ablation study of different |L|s
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="2" rowspan="2">&nbsp;&nbsp;&nbsp;<br>|L|<br><br> </th>
+    <th class="tg-0lax" colspan="2">Gastric Cancer </th>
+    <th class="tg-baqh" colspan="2">Synapse</th>
+  </tr>
+  <tr>
+    <th class="tg-0lax">ACC</th>
+    <th class="tg-0lax">mIOU</th>
+    <th class="tg-0lax">average DSC</th>
+    <th class="tg-0lax">average HD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" colspan="2">|L|=1</td>
+    <td class="tg-0lax">0.8872</td>
+    <td class="tg-0lax">0.7973</td>
+    <td class="tg-baqh">0.7874</td>
+    <td class="tg-baqh">29.4551</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" colspan="2">|L|=2</td>
+    <td class="tg-0lax">0.8874</td>
+    <td class="tg-0lax">0.7974</td>
+    <td class="tg-baqh">0.7875</td>
+    <td class="tg-amwm">28.7406</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" colspan="2">|L|=3</td>
+    <td class="tg-1wig">0.8877</td>
+    <td class="tg-1wig">0.7980</td>
+    <td class="tg-amwm">0.7886</td>
+    <td class="tg-baqh">29.4536</td>
+  </tr>
+</tbody>
+</table>
+
+### The ablation study of hyperparameters
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh">Teacher: FANet</th>
+    <th class="tg-baqh" colspan="4">Hyperparameters</th>
+    <th class="tg-baqh" colspan="2">Gastric Cancer</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" rowspan="8"><br><br><br><br><br>Student: Mobile U-Net<br></td>
+    <td class="tg-baqh">r1</td>
+    <td class="tg-baqh">r2</td>
+    <td class="tg-baqh">r3</td>
+    <td class="tg-baqh">r4</td>
+    <td class="tg-baqh">ACC</td>
+    <td class="tg-baqh">mIOU</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">0.7147</td>
+    <td class="tg-baqh">0.5560</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">10-4</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">0.7151</td>
+    <td class="tg-baqh">0.5565</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">0.7081</td>
+    <td class="tg-baqh">0.5481</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10-3</td>
+    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">0.8781</td>
+    <td class="tg-baqh">0.7827</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10-5</td>
+    <td class="tg-baqh">10-4</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">0.7230</td>
+    <td class="tg-baqh">0.5661</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10-5</td>
+    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">0.8800</td>
+    <td class="tg-baqh">0.7857</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10-5</td>
+    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">0.1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-amwm">0.8874</td>
+    <td class="tg-amwm">0.7974</td>
+  </tr>
+</tbody>
+</table>
 
 ## Requirments
 
