@@ -191,11 +191,11 @@ We will collate our whole code as soon as possible.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh" rowspan="8"><br><br><br><br><br>Student: Mobile U-Net<br></td>
-    <td class="tg-baqh">r1</td>
-    <td class="tg-baqh">r2</td>
-    <td class="tg-baqh">r3</td>
-    <td class="tg-baqh">r4</td>
+    <td class="tg-baqh" rowspan="8"><br><br><br><br>Student: Mobile U-Net<br><br><br><br></td>
+    <td class="tg-baqh">&lambda;<sub>1</td>
+    <td class="tg-baqh">&lambda;<sub>2</td>
+    <td class="tg-baqh">&lambda;<sub>3</td>
+    <td class="tg-baqh">&lambda;<sub>4</td>
     <td class="tg-baqh">ACC</td>
     <td class="tg-baqh">mIOU</td>
   </tr>
@@ -209,7 +209,7 @@ We will collate our whole code as soon as possible.
   </tr>
   <tr>
     <td class="tg-baqh">1</td>
-    <td class="tg-baqh">10-4</td>
+    <td class="tg-baqh">10<sup>-4</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">0.7151</td>
@@ -217,39 +217,39 @@ We will collate our whole code as soon as possible.
   </tr>
   <tr>
     <td class="tg-baqh">1</td>
-    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">10<sup>-9</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">0.7081</td>
     <td class="tg-baqh">0.5481</td>
   </tr>
   <tr>
-    <td class="tg-baqh">10-3</td>
-    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">10<sup>-3</td>
+    <td class="tg-baqh">10<sup>-9</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">0.8781</td>
     <td class="tg-baqh">0.7827</td>
   </tr>
   <tr>
-    <td class="tg-baqh">10-5</td>
-    <td class="tg-baqh">10-4</td>
+    <td class="tg-baqh">10<sup>-5</td>
+    <td class="tg-baqh">10<sup>-4</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">0.7230</td>
     <td class="tg-baqh">0.5661</td>
   </tr>
   <tr>
-    <td class="tg-baqh">10-5</td>
-    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">10<sup>-5</td>
+    <td class="tg-baqh">10<sup>-9</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">0.8800</td>
     <td class="tg-baqh">0.7857</td>
   </tr>
   <tr>
-    <td class="tg-baqh">10-5</td>
-    <td class="tg-baqh">10-9</td>
+    <td class="tg-baqh">10<sup>-5</td>
+    <td class="tg-baqh">10<sup>-9</td>
     <td class="tg-baqh">0.1</td>
     <td class="tg-baqh">1</td>
     <td class="tg-amwm">0.8874</td>
