@@ -12,18 +12,19 @@ Bioinformatics and Biomedicine (BIBM).
 We will collate our whole code as soon as possible.
 
 ## Visulatiztion on GastricCancer and Synpase
-[kd_visualization_new](https://user-images.githubusercontent.com/84963829/160541226-c0ea02c5-5995-4116-906d-3e756e82156a.png)
+![kd_visualization_new.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309989/kd_visualization_new.pdf)
+
 ![visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309893/visualization.pdf)
 
 ## Visulatiztion of components ablation on GastricCancer and Synpase
-[ablation_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309878/ablation_visualization.pdf)
+![ablation_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309878/ablation_visualization.pdf)
 
 ## Visulatiztion on GastricCancer and Synpase with different student (Teahcer is TransUnet)
-[student_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309896/student_visualization.pdf)
+![student_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309896/student_visualization.pdf)
 
 
 ## Visulatiztion of semi-supervised learning on GastricCancer and Synpase
-[semi_supervisied_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309881/semi_supervisied_visualization.pdf)
+![semi_supervisied_visualization.pdf](https://github.com/WrinkleXuan/Graph-FLow/files/9309881/semi_supervisied_visualization.pdf)
 
 ## Performance on GastricCancer and Synapse
 <!--
