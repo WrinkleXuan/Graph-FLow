@@ -490,7 +490,7 @@ test set: https://drive.google.com/drive/folders/1w2TtJBCAU0i-OQ3nb40StwzbYFBoQx
 
 
 ## Acknowledgement
-The codebase of semantic segmentation is succeed from the work of my senior schoolmates [Accurate Retinal Vessel Segmentation in Color Fundus Images via Fully Attention-Based Networks](https://ieeexplore.ieee.org/abstract/document/9210783). 
+The codebase of semantic segmentation is succeed from the previous work of our group.
 
 The codebase of kd is heavily borrowed from [Knowledge-Distillation-Zoo](https://github.com/AberHu/Knowledge-Distillation-Zoo) and [structure_knowledge_distillation](https://github.com/irfanICMLL/structure_knowledge_distillation) .
 
