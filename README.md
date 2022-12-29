@@ -4,12 +4,14 @@
 ## Introduction
 This repository contains the code  of our paper [Graph Flow: Cross-layer Graph Flow Distillation for Dual Efficient Medical Image Segmentation](https://arxiv.org/pdf/2203.08667.pdf).
 
-The paper is under review in IEEE Transactions on Medical Imaging.
+The paper has been accepted in IEEE Transactions on Medical Imaging.
 
 The paper is an extension version of our CoCo DistillNet which is published in the proceeding of the 2021 IEEE International Conference on
 Bioinformatics and Biomedicine (BIBM).
 
-We will collate our whole code as soon as possible.
+<!--We will collate our whole code as soon as possible.-->
+## The framework of our Graph Flow
+
 
 ## Visualization on GastricCancer and Synpase
 ![kd_visualization_new](https://user-images.githubusercontent.com/84963829/184932933-2bcd6ed3-0b14-4560-9f59-fe73a77a49c0.png)
