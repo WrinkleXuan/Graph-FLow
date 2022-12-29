@@ -11,7 +11,9 @@ Bioinformatics and Biomedicine (BIBM).
 
 <!--We will collate our whole code as soon as possible.-->
 ## The framework of our Graph Flow
-![framework_final](https://github.com/WrinkleXuan/Graph-FLow/blob/main/img/framework_final.png)
+![framework_final](https://user-images.githubusercontent.com/84963829/209924019-1b8918ef-f687-4fe8-81b6-bfe5fe927868.png)
+
+<!--(https://github.com/WrinkleXuan/Graph-FLow/blob/main/img/framework_final.png)-->
 
 ## Visualization on GastricCancer and Synpase
 ![kd_visualization_new](https://user-images.githubusercontent.com/84963829/184932933-2bcd6ed3-0b14-4560-9f59-fe73a77a49c0.png)
@@ -21,7 +23,7 @@ Bioinformatics and Biomedicine (BIBM).
 ## Visualization of components ablation on GastricCancer and Synpase
 ![ablation_visualization](https://user-images.githubusercontent.com/84963829/184933096-c3dc1224-ae42-4701-a6bc-709d31a20aa8.png)
 
-## Visualization on GastricCancer and Synpase with different student (Teahcer is TransUnet)
+## Visualization on GastricCancer and Synpase with different students (Teahcer is TransUnet)
 ![student_visualization](https://user-images.githubusercontent.com/84963829/184933185-901905eb-3036-4478-8d7e-8ca987be9c98.png)
 
 
