@@ -6,7 +6,7 @@ This repository contains the code  of our paper [Graph Flow: Cross-layer Graph F
 
 The paper has been accepted in IEEE Transactions on Medical Imaging.
 
-The paper is an extension version of our CoCo DistillNet which is published in the proceeding of the 2021 IEEE International Conference on
+The paper is an extension version of our [CoCo DistillNet](https://ieeexplore.ieee.org/abstract/document/9669551) which is published in the proceeding of the 2021 IEEE International Conference on
 Bioinformatics and Biomedicine (BIBM).
 
 <!--We will collate our whole code as soon as possible.-->
