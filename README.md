@@ -11,7 +11,7 @@ Bioinformatics and Biomedicine (BIBM).
 
 <!--We will collate our whole code as soon as possible.-->
 ## The framework of our Graph Flow
-
+![framework_final](https://github.com/WrinkleXuan/Graph-FLow/blob/main/img/framework_final.png)
 
 ## Visualization on GastricCancer and Synpase
 ![kd_visualization_new](https://user-images.githubusercontent.com/84963829/184932933-2bcd6ed3-0b14-4560-9f59-fe73a77a49c0.png)
@@ -492,7 +492,7 @@ test set: https://drive.google.com/drive/folders/1w2TtJBCAU0i-OQ3nb40StwzbYFBoQx
 
 
 ## Acknowledgement
-The codebase of semantic segmentation is succeed from the previous work of our group.
+The codebase of semantic segmentation is succeed from [the previous work](https://ieeexplore.ieee.org/abstract/document/9210783) of our group.
 
 The codebase of kd is heavily borrowed from [Knowledge-Distillation-Zoo](https://github.com/AberHu/Knowledge-Distillation-Zoo) and [structure_knowledge_distillation](https://github.com/irfanICMLL/structure_knowledge_distillation) .
 
