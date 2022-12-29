@@ -23,7 +23,7 @@ Bioinformatics and Biomedicine (BIBM).
 ## Visualization of components ablation on GastricCancer and Synpase
 ![ablation_visualization](https://user-images.githubusercontent.com/84963829/184933096-c3dc1224-ae42-4701-a6bc-709d31a20aa8.png)
 
-## Visualization on GastricCancer and Synpase with different students (Teacher is TransUnet)
+## Visualization on BUSI and CVC-ClinicDB with different students (Teacher is TransUnet)
 ![student_visualization](https://user-images.githubusercontent.com/84963829/184933185-901905eb-3036-4478-8d7e-8ca987be9c98.png)
 
 
